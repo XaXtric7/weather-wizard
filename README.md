@@ -1,11 +1,6 @@
-# 🌤️ Weather Wiz 🌍☁️
+# 🌤️ Weather Wiz 🌍
 
-<p align="center">
-
-![Image](https://github.com/user-attachments/assets/4288cbc7-df56-4b1a-a841-13a6c369293a)
-
-</p>
-
+![Image](https://github.com/user-attachments/assets/4e85f730-a148-44ed-a86d-464890a398f9)
 ![Image](https://github.com/user-attachments/assets/5f9975a5-4754-4a48-b4ad-e9fc8f9243a1)
 
 ## 📌 About the Project
