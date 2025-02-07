@@ -30,14 +30,14 @@
 
 ```sh
 git clone https://github.com/XaXtric7/weather-wizard.git
-cd weather-wiz
+cd weather-wizard
 ```
 
 ## 🔑 API Key Setup
 
 ```sh
 const API_KEY = "your-api-key-here";
-const API_URL = `https://api.openweathermap.org/data/2.5/weather?q={CITY_NAME}&appid=${API_KEY}`;
+const API_URL = `https://api.weatherapi.com/v1/current.json?key=${APIKey}&q=${city}&aqi=no`;
 
 ```
 
